@@ -21,10 +21,12 @@
 <v t="leo.20200818170328.1"><vh>首頁</vh></v>
 <v t="leo.20200818170535.1"><vh>題目</vh></v>
 <v t="boki.20210316225155.1"><vh>機構設計</vh></v>
-<v t="boki.20210316225036.1"><vh>心得</vh></v>
-<v t="boki.20210316220130.1"><vh>模擬</vh></v>
-<v t="boki.20210316221251.1"><vh>slide4</vh></v>
 <v t="boki.20210316225953.1"><vh>完成零件圖</vh></v>
+<v t="boki.20210316225036.1"><vh>心得</vh></v>
+<v t="boki.20210316230616.1"><vh>模擬</vh>
+<v t="boki.20210316220130.1"><vh>模擬1</vh></v>
+<v t="boki.20210316221251.1"><vh>slide4</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -56,6 +58,9 @@
 &lt;h2&gt;完成圖&lt;/h2&gt;
 
 &lt;p&gt;&lt;img alt="" height="350" src="./../images/final.png" width="350"/&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="boki.20210316230616.1">&lt;section&gt;
+     @others
 &lt;/section&gt;</t>
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.2"></t>
@@ -202,7 +207,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
     &lt;h2&gt;壓罐機&lt;/h2&gt;
-    &lt;p&gt;&lt;img alt="" height="300" src="./../images/30486d6c385634534337.png" width="350"/&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img alt="" height="300" src="./../images/30486d6c385634534337.gif" width="300"/&gt;&lt;/p&gt;
     &lt;h4&gt;動機:現在罐裝飲料越來越多，如果可以人手一台這樣的壓罐機，可以減少家裡垃圾占用的空間。&lt;/h4&gt;
 &lt;/section&gt;
 
