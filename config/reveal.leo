@@ -20,6 +20,10 @@
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
+<v t="boki.20210316220130.1"><vh>slide3</vh></v>
+<v t="boki.20210316220554.1"><vh>slide4</vh></v>
+<v t="boki.20210316221251.1"><vh>slide4</vh></v>
+<v t="boki.20210316221349.1"><vh>slide5</vh></v>
 </v>
 </v>
 </v>
@@ -29,6 +33,20 @@
 </v>
 </vnodes>
 <tnodes>
+<t tx="boki.20210316220130.1"># 機構設計
+
+使用曲柄滑塊將馬達的圓周運動改為往復直線運動，帶動前方的壓縮桿進行擠壓。</t>
+<t tx="boki.20210316220554.1">## coppeliasim初步模擬
+
+ 因為上學期已經了解到一些可能造成coppeliasim模擬失敗的要素，所以在初步繪製零件圖時會盡量避免。
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/WL4Nl-Xjz58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="boki.20210316221251.1">## coppeliasim最後模擬
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/5pRx7ip-_cA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="boki.20210316221349.1">## 心得
+
+這門課要讓我們學習如何同時兼顧"協同"與"設計"，當中也讓我們遇到不少的問題，例如分工的問題，軟體版本的問題，轉檔的問題，這些問題都要透過溝通來解決，要如何有效溝通，一起解決問題是我這堂課最大的收穫。</t>
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120538.1"></t>
@@ -165,20 +183,20 @@ vertical: body pane on the botton</t>
 &lt;div class="slides"&gt;
     @others
 &lt;/div&gt;</t>
-<t tx="leo.20200818170328.1">##2021-協同產品設計實習
+<t tx="leo.20200818170328.1">## 2021-協同產品設計實習
 
-###stage1-bg5
+### stage1-bg5
 
 &lt;small&gt;
-created by [40823218,40823238]
-&lt;small&gt;
-</t>
-<t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
-    &lt;p&gt;
-        reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
-    &lt;/p&gt;
-&lt;/section&gt;
+Created by [40823218](https://40823218.github.io/cd2021/content/index.html/)
+&lt;/small&gt;
+
+[40823218](./../blog/index.html)</t>
+<t tx="leo.20200818170535.1"># 壓罐機
+
+&lt;img src="https://40823218.github.io/stage1-bg5/images/fianl.png"
+
+動機:現在罐裝飲料越來越多，如果可以人手一台這樣的壓罐機，可以減少家裡垃圾占用的空間。
 
 </t>
 </tnodes>
