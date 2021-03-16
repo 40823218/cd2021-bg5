@@ -23,7 +23,6 @@
 <v t="boki.20210316225155.1"><vh>機構設計</vh></v>
 <v t="boki.20210316225953.1"><vh>完成零件圖</vh></v>
 <v t="boki.20210316221251.1"><vh>slide4</vh></v>
-<v t="boki.20210316234130.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 </v>
@@ -46,10 +45,6 @@
 &lt;h2&gt;完成圖&lt;/h2&gt;
 
 &lt;p&gt;&lt;img alt="" height="350" src="./../images/fianl.png" width="730"/&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="boki.20210316234130.1">&lt;section&gt;
-&lt;h1&gt;心得&lt;/h1&gt;
-&lt;h2&gt;這門課要讓我們學習如何同時兼顧"協同"與"設計"，當中也讓我們遇到不少的問題，例如分工的問題，軟體版本的問題，轉檔的問題，這些問題都要透過溝通來解決，要如何有效溝通，一起解決問題是這堂課最大的收穫。&lt;/h2&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.2"></t>
