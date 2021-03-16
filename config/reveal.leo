@@ -36,7 +36,7 @@
 <t tx="boki.20210316221251.1">&lt;section&gt;
 &lt;h2&gt;coppeliasim最後模擬&lt;/h2&gt;
 &lt;h4&gt; 因為上學期已經了解到一些可能造成coppeliasim模擬失敗的要素，所以在初步繪製零件圖時會盡量避免。&lt;/h4&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/5pRx7ip-_cA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;
+&lt;p&gt;&lt;img alt="" height="315" src="./../images/123.gif" width="560"/&gt;&lt;/p&gt;
 &lt;section&gt;</t>
 <t tx="boki.20210316225036.1">&lt;section&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
