@@ -22,7 +22,6 @@
 <v t="leo.20200818170535.1"><vh>題目</vh></v>
 <v t="boki.20210316225155.1"><vh>機構設計</vh></v>
 <v t="boki.20210316225953.1"><vh>完成零件圖</vh></v>
-<v t="boki.20210316220130.1"><vh>模擬1</vh></v>
 <v t="boki.20210316221251.1"><vh>slide4</vh></v>
 <v t="boki.20210316225036.1"><vh>心得</vh></v>
 </v>
@@ -34,14 +33,9 @@
 </v>
 </vnodes>
 <tnodes>
-<t tx="boki.20210316220130.1">&lt;section&gt;
-&lt;h2&gt;coppeliasim初次模擬&lt;/h2&gt;
-&lt;h4&gt; 因為上學期已經了解到一些可能造成coppeliasim模擬失敗的要素，所以在初步繪製零件圖時會盡量避免。&lt;/h4&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/WL4Nl-Xjz58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;section&gt;</t>
 <t tx="boki.20210316221251.1">&lt;section&gt;
 &lt;h2&gt;coppeliasim最後模擬&lt;/h2&gt;
-
+&lt;h4&gt; 因為上學期已經了解到一些可能造成coppeliasim模擬失敗的要素，所以在初步繪製零件圖時會盡量避免。&lt;/h4&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/5pRx7ip-_cA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;\
 &lt;section&gt;</t>
 <t tx="boki.20210316225036.1">&lt;section&gt;
@@ -55,7 +49,7 @@
 <t tx="boki.20210316225953.1">&lt;section&gt;
 &lt;h2&gt;完成圖&lt;/h2&gt;
 
-&lt;p&gt;&lt;img alt="" height="350" src="./../images/fianl.png" width="350"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="350" src="./../images/fianl.png" width="143"/&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.2"></t>
